@@ -1,0 +1,174 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Kavya Sharma
+Kavya Sharma
+Data Science Enthusiast 
+
+Show Contacts
+
+Email
+Kavya.sharma32720@gmail.com
+
+Phone
++91 9610000411
+
+Birthday
+Sept 28, 2002
+
+Location
+Noida, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+I want to help others make the right decisions, data-driven decisions.
+
+Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle waiting to be solved. Finding patterns Web Development else sees is the challenge to me. 
+
+With a strong background in data analysis and Data Analytics models, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in Data Analytics, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
+
+## service
+
+What I'm doing
+
+alt = design icon
+Data analysis
+I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
+
+alt = Machine Learning icon
+Web Development
+Get more value from your data with prediction models and Data Analytics techniques, for example by predicting behavior or targeting the right customer.
+
+alt = mobile app icon
+Dashboards
+Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns yourself.
+
+alt = camera icon
+Technical Writer
+As a web developer, I help to design and create the perfect website according to the specific need. The website is optimized for desktop and smartphone.
+
+
+
+# resume
+
+Resume
+
+Education
+
+Amity University 
+2020 — 2024
+Bachelor of Technology in Information Technology
+CGPA: 8
+
+MAHARANI GAYATRI DEVI GIRLS' SCHOOL
+2018 — 2020
+Science (with Sanskrit)
+
+
+Experience
+
+AI Research Intern
+Open Health Systems Laboratory(OHSL)
+Jun 2023 — Present
+- Working on Web Development of Large Language Models (LLMs) and Generative Artificial Intelligence in Life Sciences.
+
+AI/ML Intern
+Tech Mahindra
+Jun 2023 — Sept 2023
+• Designed a phishing detection system with 98% accuracy on mined data by performing extensive ETL processes on phishing data trends.
+• Led a cross-functional team of 5 to analyse market trends and user preferences, resulting in development of System Requirements Specification (SRS) reducing development time by 20%.
+• As the team leader, coordinated with 21 interns to ensure timely project delivery, demonstrating strong leadership and communication skills.
+Data Science Intern
+SkillVoid Technologies
+Dec 2022 — Mar 2023
+• Assisted in building moving object detection models and performing statistical analysis on real-world datasets.
+• Mastered YOLO V4 object detection through extensive learning. Applied the framework to develop a real-time vehicle detection system, achieving an accuracy of 95%
+
+My skills
+
+Data Mining And Analysis
+80%
+Machine Learning
+70%
+Database Management
+80%
+Python Development
+70%
+Computer Vision
+50%
+
+
+# portfolio
+
+Portfolio
+
+All
+Machine Learning
+Data Analytics
+Visualization
+
+Select category
+All
+Data Analytics
+Web Development
+Machine Learning
+
+alt = finance
+Finance
+Machine Learning
+
+alt = orizon
+Orizon
+Machine Learning
+
+alt = fundo
+Fundo
+Data Analytics
+
+alt = brawlhalla
+Brawlhalla
+Web Development
+
+alt = dsm.
+DSM.
+Data Analytics
+
+alt = metaspark
+MetaSpark
+Data Analytics
+
+alt = summary
+Summary
+Machine Learning
+
+alt = task manager
+Task Manager
+Web Development
+
+alt = arrival
+Arrival
+Machine Learning
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
